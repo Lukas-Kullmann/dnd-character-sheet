@@ -1,6 +1,6 @@
 import withStyles, { CSSProperties, WithStyles } from '@material-ui/core/styles/withStyles';
 import React from 'react';
-import AbilityScore from './presentational/AbilityScore/AbilityScore';
+import AbilityScore from './AbilityScore/AbilityScore';
 
 const styles = {
   wrapper: {
