@@ -8,6 +8,7 @@ import Header from './components/Header/Header';
 
 const styles = (theme: Theme) => ({
   body: {
+    alignItems: 'stretch',
     display: 'flex',
     flexGrow: 1,
   },
